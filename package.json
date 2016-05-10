@@ -1,0 +1,22 @@
+{
+  "name": "simpleapi",
+  "version": "1.0.0",
+  "description": "A simple api for demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrianmackey/simpleApi.git"
+  },
+  "author": "Brian Mackey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbrianmackey/simpleApi/issues"
+  },
+  "homepage": "https://github.com/pbrianmackey/simpleApi#readme",
+  "devDependencies": {
+    "simple-api": "^0.1.1"
+  }
+}
